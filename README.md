@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+##Roadmap.sh Badge
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b2aba25f038d81eeb6db37?variant=dark" alt="roadmap.sh"/></a>
 <!--
 **Tamlica/Tamlica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
