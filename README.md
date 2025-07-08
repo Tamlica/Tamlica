@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Yogyakarta
-* 🖥️  See my portfolio at [Portfolio Site](http://tamlicamuhaimin.pages.dev)
+* 🖥️  See my portfolio at [Portfolio Site](http://tamlicamuhaim.in)
 * ✉️  You can contact me at [tamlicamuhaimin@outlook.com](mailto:tamlicamuhaimin@outlook.com)
 * 🧠  I'm learning React Native, NestJS, NextJS, Web3 and anything else that interest me!
 * 🤝  I'm open to collaborating on any Python or Javascript based project
@@ -46,7 +46,3 @@ Here are some ideas to get you started:
 <a href="http://www.github.com/tamlica"><img src="https://github-readme-stats.vercel.app/api?username=tamlica&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tamlica's GitHub stats" /></a>
 
 <a href="https://github.com/tamlica" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamlica&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/corzucci"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
