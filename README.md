@@ -7,7 +7,7 @@ Full Stack Developer
 * 🌍  I'm based in Yogyakarta
 * 🖥️  See my portfolio at [Portfolio Site](http://tamlicamuhaim.in)
 * ✉️  You can contact me at [tamlicamuhaimin@outlook.com](mailto:tamlicamuhaimin@outlook.com)
-* 🧠  I'm learning React Native, NestJS, NextJS, Web3 and anything else that interest me!
+* 🧠  I'm learning React Native, NestJS, PineScript and anything else that interest me!
 * 🤝  I'm open to collaborating on any Python or Javascript based project
 
 ### Skills
