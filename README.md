@@ -83,7 +83,7 @@ React Native
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,elasticsearch,redis" />
 </p>
 
 Elasticsearch
