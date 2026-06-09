@@ -86,8 +86,6 @@ React Native
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,elasticsearch,redis" />
 </p>
 
-Elasticsearch
-
 ### Automation & AI
 
 * n8n
