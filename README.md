@@ -155,9 +155,7 @@ Currently learning and experimenting with:
 </p>
 
 * 🌐 Portfolio: https://tamlicamuhaim.in
-* 💼 LinkedIn: https://linkedin.com/in/tamlicamuhaimin
 * 📧 Email: [tamlicamuhaimin@outlook.com](mailto:tamlicamuhaimin@outlook.com)
-* 🐦 X: https://x.com/thatITfriend
 
 ---
 
