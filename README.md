@@ -1,46 +1,164 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tamlica
-===============================================================================================================================
+# Hi there 👋 I'm Tamlica
 
-Full Stack Developer
---------------------
+### Full Stack Engineer | Python, TypeScript, AI Automation & SaaS Development
 
-* 🌍  I'm based in Yogyakarta
-* 🖥️  See my portfolio at [Portfolio Site](http://tamlicamuhaim.in)
-* ✉️  You can contact me at [tamlicamuhaimin@outlook.com](mailto:tamlicamuhaimin@outlook.com)
-* 🧠  I'm learning React Native, NestJS, PineScript and anything else that interest me!
-* 🤝  I'm open to collaborating on any Python or Javascript based project
+I'm a Full Stack Engineer from Indonesia with 5+ years of experience building web applications, APIs, automation systems, and mobile apps.
 
-### Skills
+I enjoy solving business problems through software—whether that's building SaaS platforms, automating repetitive workflows, integrating AI into existing systems, or creating tools that save people time.
 
+* 🌍 Based in Yogyakarta, Indonesia
+* 🖥️ Portfolio: https://tamlicamuhaim.in
+* ✉️ Email: [tamlicamuhaimin@outlook.com](mailto:tamlicamuhaimin@outlook.com)
+* 💼 Open to freelance opportunities and collaborations
+* 🚀 Passionate about automation, AI, and developer productivity
+
+---
+
+## 🚀 Current Focus
+
+* Building AI-powered applications and automation systems
+* Developing SaaS platforms with React, FastAPI, and PostgreSQL
+* Creating workflow automations using n8n
+* Learning Pine Script for TradingView indicators and strategies
+* Exploring self-hosted AI and LLM workflows
+
+---
+
+## 🌟 Featured Projects
+
+### 🎥 YouTube → Article AI
+
+Convert YouTube videos into Medium-style articles using automated transcription and AI-powered content generation.
+
+**Tech Stack:** FastAPI, n8n, AssemblyAI, PostgreSQL, OpenAI
+
+---
+
+### 💰 Trip Budget Manager
+
+A collaborative travel budgeting application with multi-currency support, expense tracking, and real-time budget summaries.
+
+**Tech Stack:** React, TypeScript, Supabase, PostgreSQL
+
+---
+
+### 🤖 NLP Content Classifier
+
+An Indonesian-language classification API for detecting gambling and adult content from noisy user-generated text.
+
+**Tech Stack:** FastAPI, PostgreSQL, Machine Learning, NLP
+
+---
+
+### 📱 Cross-Platform Mobile Applications
+
+Building mobile applications with shared codebases and modern UI experiences.
+
+**Tech Stack:** React Native, TypeScript
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,nestjs" />
 </p>
 
-### Roadmap.sh Badge
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b2aba25f038d81eeb6db37?variant=dark" alt="roadmap.sh"/></a>
-<!--
-**Tamlica/Tamlica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,tailwind" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mobile
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
-### Socials
+React Native
 
-<p align="left"> <a href="https://www.github.com/tamlica" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/tamlicamuhaimin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tamlicamuhaimin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/thatITfriend" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+### Databases
 
-### Badges
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+</p>
 
-<b>My GitHub Stats</b>
+Elasticsearch
 
-<a href="https://github.com/tamlica" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamlica&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Automation & AI
+
+* n8n
+* Playwright
+* Selenium
+* OpenAI APIs
+* AI Agents
+* Workflow Automation
+* Telegram Bots
+* Discord Bots
+
+### DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions" />
+</p>
+
+---
+
+## 📚 Learning & Growth
+
+Currently learning and experimenting with:
+
+* Pine Script
+* Advanced AI Agent Workflows
+* LLM Application Development
+* System Design & Scalable Architectures
+* Mobile Application Development
+
+---
+
+## 🏆 Roadmap.sh
+
+<a href="https://roadmap.sh">
+  <img src="https://api.roadmap.sh/v1-badge/tall/64b2aba25f038d81eeb6db37?variant=dark" alt="roadmap.sh"/>
+</a>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamlica&show_icons=true&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamlica&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamlica&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/tamlica">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/tamlicamuhaimin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+* 🌐 Portfolio: https://tamlicamuhaim.in
+* 💼 LinkedIn: https://linkedin.com/in/tamlicamuhaimin
+* 📧 Email: [tamlicamuhaimin@outlook.com](mailto:tamlicamuhaimin@outlook.com)
+* 🐦 X: https://x.com/thatITfriend
+
+---
+
+> "Building software that solves real problems, automates repetitive work, and scales with business growth."
